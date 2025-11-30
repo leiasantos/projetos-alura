@@ -62,6 +62,8 @@ Lista organizada dos meus projetos desenvolvidos durante estudos de HTML e CSS (
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 
+<img width="1752" height="752" alt="carbon" src="https://github.com/user-attachments/assets/df90b157-6f93-4841-addd-0e7057ef1e76" />
+
 
 * Foco em responsividade e boas práticas
 
