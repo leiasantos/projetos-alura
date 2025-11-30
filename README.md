@@ -15,7 +15,7 @@ Lista organizada dos meus projetos desenvolvidos durante estudos de HTML e CSS (
     <th style="text-align:center; padding:12px; background-color:#6C5B7B; color:#fff;">Link</th>
   </tr>
 
-  <tr style="background-color:#F67280; color:#fff; text-align:center;">
+  <tr style= "text-align:center;">
     <td>01</td>
     <td><span style="color:#FFEE93;">Projeto Alura Arquitetura</span></td>
     <td>Página institucional de arquitetura para treinar HTML e CSS.</td>
@@ -60,8 +60,9 @@ Lista organizada dos meus projetos desenvolvidos durante estudos de HTML e CSS (
 
 ## 🚀 Tecnologias mais utilizadas
 
-* HTML5
-* CSS3 (Flexbox, Grid)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+
+
 * Foco em responsividade e boas práticas
 
 <br>
