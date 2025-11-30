@@ -8,11 +8,11 @@ Lista organizada dos meus projetos desenvolvidos durante estudos de HTML e CSS (
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
-    <th style="text-align:center; padding:12px; background-color:#6C5B7B; color:#fff;">Nº</th>
-    <th style="text-align:center; padding:12px; background-color:#355C7D; color:#fff;">Projeto</th>
-    <th style="text-align:center; padding:12px; background-color:#6C5B7B; color:#fff;">Descrição</th>
-    <th style="text-align:center; padding:12px; background-color:#355C7D; color:#fff;">Tecnologias</th>
-    <th style="text-align:center; padding:12px; background-color:#6C5B7B; color:#fff;">Link</th>
+    <th style="text-align:center; padding:10px; background-color:#6C5B7B; color:#fff;">Nº</th>
+    <th style="text-align:center; padding:10px; background-color:#355C7D; color:#fff;">Projeto</th>
+    <th style="text-align:center; padding:10px; background-color:#6C5B7B; color:#fff;">Descrição</th>
+    <th style="text-align:center; padding:10px; background-color:#355C7D; color:#fff;">Tecnologias</th>
+    <th style="text-align:center; padding:10px; background-color:#6C5B7B; color:#fff;">Link</th>
   </tr>
 
   <tr style= "text-align:center;">
